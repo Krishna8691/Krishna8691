@@ -1,0 +1,3 @@
+- 👋 Hi, I’m FroZzeN aka Krishna
+- 👀 I’m interested in Coding, Exploring and Learning new stuffs, Gaming (DOTA 2). I also like Travelling and Playing Outdoor Sports.
+- 🌱 I’m currently learning making recommendation engines using collabrative filtering in my free time.
